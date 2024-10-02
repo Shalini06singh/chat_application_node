@@ -25,8 +25,8 @@ Open your browser and visit http://localhost:8000 to access the application.
 
 ## Screenshots
 
+![Screenshot 2024-05-01 174655](https://github.com/user-attachments/assets/4092df27-0f9c-4aaa-9520-437a0fa1c290)
 
-![Screenshot 2024-05-01 174655](https://github.com/Shalini06singh/Chat-Application/assets/131110991/270eba45-f24c-40fd-89f7-5437c5143524)
 
 
 ## Tech Stack
